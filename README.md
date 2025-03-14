@@ -68,12 +68,6 @@ Scanner for user input
 
 How to Run the Applications
 
-Clone this repository:
-
-git clone https://github.com/codealpha_tasks/code-alpha-internship
-
-Navigate to the project directory and open the desired Java file in an IDE (Eclipse, IntelliJ, etc.).
-
 Compile and run the Java program:
 
 javac FileName.java
